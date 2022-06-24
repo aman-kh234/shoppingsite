@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.catalogue{
+    background-color: rgb(182, 63, 63);
+    height: 35px;
+    font-size:20px;
+    text-align: center;
+}
+.search{
+    float: left;
+    position: relative;
+    top: 40px;
+}
+.container2{
+    display: inline;
+}
+#image{
+    float: left;
+}
+.button{
+    clear: both;
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+    top: 159px;
+    right: 681px;
+    cursor: pointer;
+    background-color: rgb(61, 206, 73);
+}
+#shopby{
+    margin-left: -4px;
+    
+}
+input[type=text]{
+  width: 500px;
+  height: 30px;
+}
+.navv {
+    background-color: rgb(61, 206, 73);     
+    list-style: none;
+    overflow: auto;
+}
+
+.navbar li a {
+     color: black;
+    text-decoration: none;
+    padding: 3px 27px;
+    float: left;
+    height: 20px;
+}
+.navbar li a:hover{
+     color: brown;
+} 
